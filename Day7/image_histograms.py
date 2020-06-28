@@ -23,3 +23,6 @@ plt.hist(r.ravel() ,256 , [0,256])
 plt.show()
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+
+
